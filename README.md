@@ -150,14 +150,6 @@ Expore much from various blogs and articles provided timely.
 ![NODE](https://img.shields.io/badge/nodejs-79b362?style=for-the-badge&logo=node&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/mongodb-bdff7a?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/></br>
-## PROJECT SNAPS
-![Screenshot 2024-04-15 at 00-26-42 HealHub - A Community Wellness Portal](https://github.com/Harshit-Raj-14/HealHub/assets/98808802/81cdb33e-a5ec-4fb1-84e8-572b4edacb3c)
-![Screenshot 2024-04-15 at 00-26-51 HealHub - A Community Wellness Portal](https://github.com/Harshit-Raj-14/HealHub/assets/98808802/98f6c232-2295-4d3e-be15-78099965c86a)
-![Screenshot 2024-04-15 at 00-27-10 HealHub Tools](https://github.com/Harshit-Raj-14/HealHub/assets/98808802/8a053cae-de11-43a3-b73d-1ff550d38144)
-![Screenshot 2024-04-15 at 00-27-27 HealHub Tools](https://github.com/Harshit-Raj-14/HealHub/assets/98808802/cd08b83e-6732-4bab-80e3-a8b43b3edb7a)
-![Screenshot 2024-04-15 at 00-27-51 HealHub Tools](https://github.com/Harshit-Raj-14/HealHub/assets/98808802/b1d51b9d-7b50-4227-887b-72b04f66778c)
-![Screenshot 2024-04-15 at 00-28-31 COVID 19](https://github.com/Harshit-Raj-14/HealHub/assets/98808802/4ce5944e-6a9c-4fbb-ad25-70828f12fcf4)
-![Screenshot 2024-04-15 at 00-28-46 COVID 19](https://github.com/Harshit-Raj-14/HealHub/assets/98808802/b7d450e0-90e4-48ee-a10f-6b097625490c)
+
 
 ## THANK YOU!
