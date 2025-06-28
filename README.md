@@ -1,6 +1,5 @@
 # HealHub - Community Wellness Portal
 
-**Website Link -** https://harshit-raj-14.github.io/HealHub/
 
 ## The problem we are trying to solve
 HealHub is a comprehensive website that acts as a centralized platform for wellness resources, services, and community engagement, aimed at enhancing the health and well-being of the community.
@@ -147,8 +146,6 @@ Expore much from various blogs and articles provided timely.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![BOOTSTRAP](https://img.shields.io/badge/bootstrap-CF9FFF?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NODE](https://img.shields.io/badge/nodejs-79b362?style=for-the-badge&logo=node&logoColor=white)
-![MONGODB](https://img.shields.io/badge/mongodb-bdff7a?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
